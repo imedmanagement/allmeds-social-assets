@@ -1,0 +1,75 @@
+{
+  "brand": "AllMeds",
+  "accounts": {
+    "linkedin": "109287459",
+    "instagram": "17841478045271572"
+  },
+  "posts": [
+    {
+      "date": "2026-11-13",
+      "post": "AM1",
+      "title": "Secondary injury, or side effect?",
+      "card": "https://raw.githubusercontent.com/imedmanagement/allmeds-social-assets/main/cards/2026-11-allmeds-1.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/allmeds-social-assets/main/stories/2026-11-allmeds-1.jpg",
+      "instagram_feed_posted": "18077214611759662",
+      "linkedin": {
+        "commentary": "Is it a secondary injury, or is it a side effect?\n\nMost claim files can't answer that question.\n\nA worker injures their back. Three months later the file shows dizziness, low mood, poor sleep, a fall at home.\n\nEach one gets assessed as a new condition.\nEach one gets treated.\nEach one can become a liability the insurer or employer ends up funding.\n\nSometimes it is a consequential injury. Often it is the medication.\n\nOpioids can cause low mood and poor sleep.\nBenzodiazepines and Z-drugs can cause unsteadiness and memory problems.\nGabapentinoids can cause dizziness and drowsiness.\nAntidepressants and antipsychotics can cause weight gain and sedation.\n\nIn a claim, those effects rarely get labelled as adverse effects. They get labelled as something else.\n\nAllMeds reads the medication history first, flags the adverse effect risk, and shows claims teams what to act on before a side effect becomes a diagnosis.\n\nFind it early, or fund it later.\n\n#WorkersCompensation #MedicationSafety #InjuryManagement"
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "post": "AM2",
+      "title": "How a side effect becomes an accepted condition",
+      "card": "https://raw.githubusercontent.com/imedmanagement/allmeds-social-assets/main/cards/2026-11-allmeds-2.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/allmeds-social-assets/main/stories/2026-11-allmeds-2.jpg",
+      "instagram_feed_posted": "18129447979856068",
+      "linkedin": {
+        "commentary": "How a side effect becomes an accepted condition:\n\n1. A medication is prescribed for the injury.\n2. It causes an adverse effect.\n3. The adverse effect is read as a new condition.\n4. A new medication is prescribed to treat it.\n5. Repeat.\n\nBy step five, the claim has a secondary condition, a longer medication list and a return to work date that keeps moving.\n\nNobody did anything wrong. Nobody was looking at the medications as a whole.\n\nThat is the gap AllMeds closes. It assesses the full medication list, identifies where an adverse effect is the more likely explanation, and gives the case manager a clear next step while the problem is still small.\n\nThe cheapest secondary injury is the one that never gets diagnosed, because it was never an injury.\n\n#PersonalInjury #MedicationRisk #ReturnToWork"
+      }
+    },
+    {
+      "date": "2026-11-16",
+      "post": "AM3",
+      "title": "You can't manage a risk that isn't on the file",
+      "card": "https://raw.githubusercontent.com/imedmanagement/allmeds-social-assets/main/cards/2026-11-allmeds-3.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/allmeds-social-assets/main/stories/2026-11-allmeds-3.jpg",
+      "instagram_feed_posted": "18139399537634303",
+      "linkedin": {
+        "commentary": "You can't manage a risk that isn't on the file.\n\nWhen one insurer asked AllMeds to retrieve medication histories on its claims:\n\n60% of those claims had no medications listed on file.\nThose workers were taking around 10 medications on average.\n60% came back High or Critical risk.\n\nTen medications. None of them visible to the people managing the claim.\n\nSo when a new symptom appears, there is nothing on file to connect it to. It gets treated as a new condition, and the claim grows.\n\nAllMeds retrieves the medication history, completes the risk assessment and shows what is driving the risk, in plain language a claims team can act on.\n\nVisibility first. Everything else follows.\n\n#WorkersCompensation #ClaimsManagement #MedicationSafety"
+      }
+    },
+    {
+      "date": "2026-11-17",
+      "post": "AM4",
+      "title": "When a physical claim picks up a psychological one",
+      "card": "https://raw.githubusercontent.com/imedmanagement/allmeds-social-assets/main/cards/2026-11-allmeds-4.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/allmeds-social-assets/main/stories/2026-11-allmeds-4.jpg",
+      "instagram_feed_posted": "18061321202797988",
+      "linkedin": {
+        "commentary": "What does it cost when a physical claim picks up a psychological one?\n\nSafe Work Australia's medians:\n\nPhysical injury: $13,883 and 6.2 working weeks lost.\nMental health condition: $55,270 and 30.7 working weeks lost.\n\nFour times the cost. Five times the time off work.\n\nNow consider how many medications used after an injury list low mood, anxiety, poor sleep or cognitive slowing as known adverse effects.\n\nWhen those effects are recorded as a secondary psychological injury, the claim moves from the first set of numbers to the second.\n\nAllMeds identifies the medications most likely to be driving those symptoms before they become a diagnosis, so claims teams can ask the right question at the right time.\n\nIt is a small check against a very large cost.\n\n#WorkersCompensation #PsychologicalInjury #MedicationRisk"
+      }
+    },
+    {
+      "date": "2026-11-18",
+      "post": "AM5",
+      "title": "Opioids are only half the story",
+      "card": "https://raw.githubusercontent.com/imedmanagement/allmeds-social-assets/main/cards/2026-11-allmeds-5.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/allmeds-social-assets/main/stories/2026-11-allmeds-5.jpg",
+      "instagram_feed_posted": "18113373902232513",
+      "linkedin": {
+        "commentary": "For employers and self-insurers: do you know what your injured workers are actually taking?\n\nMost people assume the answer is opioids. That is only half the story.\n\nIn IMM's claim data:\n\n61% of claims included an opioid.\n61% included an antidepressant.\n27% a gabapentinoid.\n20% an antipsychotic.\n19% a benzodiazepine.\n\nAntidepressants appear as often as opioids.\n\nSo when a psychological condition is added to a physical claim, one question matters: did the symptoms come before the medication, or after?\n\nIf nobody can see the medication list, nobody can answer it. And the employer wears the cost either way.\n\nAllMeds makes the full medication picture visible as soon as the list is known, so the conversation with the treating doctor happens before the secondary condition, not after it.\n\nMedication risk is a workplace risk. It should be visible like one.\n\n#WHS #SelfInsurance #MedicationSafety"
+      }
+    },
+    {
+      "date": "2026-11-19",
+      "post": "AM6",
+      "title": "Find it early, on purpose",
+      "card": "https://raw.githubusercontent.com/imedmanagement/allmeds-social-assets/main/cards/2026-11-allmeds-6.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/allmeds-social-assets/main/stories/2026-11-allmeds-6.jpg",
+      "instagram_feed_posted": "18274506748305885",
+      "linkedin": {
+        "commentary": "Most medication problems in a claim are found late, by accident, or not at all.\n\nAllMeds was built to find them early, on purpose.\n\nFor each claim, AllMeds:\n\nRetrieves the medication history.\nScores the medication risk.\nFlags adverse effects likely to be mistaken for secondary or consequential injuries.\nReviews whether each medication is related to the injury and reasonably necessary.\nDrafts the letter to the treating doctor.\n\nIt is built on 11 years and more than 12,000 pharmacist reviews in personal injury.\n\nIn one insurer's early intervention teams, 65% of claims assessed came back High or Critical medication risk.\n\nWe are offering personal injury insurers a medication visibility study on their own claims. If you want to know what is sitting in your portfolio, message us or email hello@allmeds.ai.\n\n#PersonalInjury #InsurTech #MedicationRisk"
+      }
+    }
+  ]
+}
